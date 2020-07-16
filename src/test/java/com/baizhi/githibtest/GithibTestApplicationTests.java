@@ -14,4 +14,10 @@ public class GithibTestApplicationTests {
         System.out.println("大傻子");
     }
 
+
+    public static void main(String[] args) {
+        System.out.println("真的难");
+    }
 }
+
+
