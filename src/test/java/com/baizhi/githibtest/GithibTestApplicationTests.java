@@ -11,6 +11,7 @@ public class GithibTestApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("大傻子");
     }
 
 }
